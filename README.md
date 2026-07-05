@@ -1,12 +1,12 @@
 <div align="center">
 
-# 🚀 60 Days Frontend Challenge
+# 🚀 Mohammad Huzaifa
+### Frontend Engineer & Creative Technologist
 
-> Turning consistency into craft. Building one project every day for 60 days.
+Building high-performance, visually striking, and interactive web applications. Focused on bridging the gap between advanced frontend architecture and intelligent backend systems.
 
-![Progress](https://img.shields.io/badge/Day-33%20of%2060-00ff88?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![GitHub commits](https://img.shields.io/github/commit-activity/w/mohammad43268/60-days-frontend-challenge?style=for-the-badge)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mohammad-huzaifa-359673344/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/mohammad43268)
 
 </div>
 
@@ -14,73 +14,67 @@
 
 ## 👨‍💻 About Me
 
-I am Mohammad Huzaifa, a Computer Science diploma student at Jamia Millia Islamia.
-This is my public commitment to become a job-ready frontend engineer in 60 days —
-building real projects daily, pushing to GitHub, and documenting the journey.
+I am a **Computer Science** student at **Jamia Millia Islamia**, deeply passionate about building fluid user interfaces, 3D web environments, and AI-integrated applications. I specialize in turning complex UI designs into robust, production-ready code.
 
-**Goal:** Land a frontend engineering role and build toward working in Germany's tech industry.
-
----
-
-## 🗺️ Roadmap
-
-| Week | Focus | Status |
-|------|-------|--------|
-| Week 1 (Days 01–07) | CSS Mastery | ✅ Complete |
-| Week 2 (Days 08–14) | JavaScript ES6+ | ✅ Complete |
-| Week 3 (Days 15–21) | GSAP + CSS 3D Animations | ✅ Complete |
-| Week 4 (Days 22–28) | Three.js + Spline + Lenis | ✅ Complete |
-| Week 5 (Days 29–35) | React Fundamentals | 🔄 In Progress |
-| Week 6 (Days 36–42) | React Advanced + Deploy | ⬜ Upcoming |
-| Week 7 (Days 43–49) | DSA Easy — 30 Problems | ⬜ Upcoming |
-| Week 8 (Days 50–60) | DSA Medium + Final Portfolio | ⬜ Upcoming |
+* 🎯 **Current Focus:** Advanced React architecture, creative frontend physics, and scalable web apps.
+* 🌐 **Goal:** Securing a Frontend Engineering role, with a long-term goal of contributing to Germany's innovation-driven tech ecosystem.
+* ⚡ **Core Philosophy:** Clean code layout, performance optimization, and pixel-perfect responsiveness.
 
 ---
 
 ## 🏆 Flagship Projects
 
-### 🖤 NOIR ATELIER — Fashion Brand Site
-> Current build — React + Vite + React Router DOM
-- Multi-page routing architecture
-- Custom hooks (`useLenis`, and more)
-- GSAP-driven scroll and page transitions
-- Lenis smooth scroll integration
+### 🖥️ Aura OS — Web-Based Intelligent Operating System
+> **Tech Stack:** React, Tailwind CSS, Python FastAPI, Gemini 2.5 Flash, WebSockets
+A fully conceptualized, browser-based operating system featuring an isolated desktop environment and natural language control.
+* **Intelligent Co-Pilot:** Integrated a Python FastAPI backend powered by **Gemini 2.5 Flash** to allow full natural language control over the OS (e.g., creating files, searching directories, or generating code via text command).
+* **System Features:** Built a custom multitasking window manager (draggable, resizable, and overlapping windows), a functional interactive terminal, a virtual file explorer, and a live code-execution IDE.
+* **Performance:** Leveraged highly optimized state management to ensure smooth system performance during multi-window processes.
 
-### 🎮 AKIRA Studios — Game Studio Landing Page
-> Week 1 Capstone — Pure CSS, Zero Libraries
-- Cinematic hero with text-behind-image effect
-- Scroll-driven sections, bento game library grid
-- **[Live Demo](https://60-days-frontend-challenge.vercel.app)**
+### 🖤 NOIR ATELIER — Premium Fashion E-Commerce
+> **Tech Stack:** React, Vite, React Router DOM, GSAP, Lenis Smooth Scroll
+A production-grade, highly immersive luxury fashion platform focusing on high-end motion design and seamless user flows.
+* Developed a scalable multi-page routing architecture with unified layout wrappers.
+* Engineered custom hooks (`useLenis`, state management) to decouple scroll data from rendering.
+* Created sophisticated page transitions and parallax effects utilizing GSAP timeline orchestration.
 
-### 🎧 WOLF Acoustics
-> Three.js GLB headphone showcase — strongest Three.js project of the challenge
+### 🎧 WOLF Acoustics — 3D Product Showcase
+> **Tech Stack:** React, Three.js, React Three Fiber, GLTF/GLB Models
+An interactive, high-fidelity 3D audio equipment showcase engineered for modern product marketing.
+* Integrated custom 3D headphone models with dynamic lighting, environment mapping, and camera view transitions.
+* Optimized assets for fast initial loading times and smooth 60 FPS rendering across standard desktop devices.
 
-### 🖥️ Aura OS
-> Browser-based operating system — window manager, live IDE, terminal, file explorer
-- Python FastAPI + Gemini 2.5 Flash backend for natural language OS control
+### 🎮 AKIRA Studios — Next-Gen Gaming Studio Landing Page
+> **Tech Stack:** Pure HTML5, Advanced CSS3, Native JavaScript
+A highly creative UI showcase designed entirely with zero external dependencies to prove deep core CSS mastery.
+* **[Live Demo](https://60-days-frontend-challenge.vercel.app)**
+* Features a cinematic hero header utilizing layered text-behind-image scroll masks.
+* Features responsive Bento-grid structures for asset layout and custom micro-interactions.
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+### Languages & Core
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-### Frontend Frameworks & Libraries
+### Frameworks & Libraries
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 
-### Animation & 3D
+### Animation & Creative Web
 ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black)
 ![Three.js](https://img.shields.io/badge/Three.js-black?style=flat-square&logo=three.js&logoColor=white)
 ![Spline](https://img.shields.io/badge/Spline-FF5C00?style=flat-square)
 ![Lenis](https://img.shields.io/badge/Lenis-Smooth_Scroll-00ff88?style=flat-square)
 
-### Tools & Platforms
+### Workflow & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
@@ -88,29 +82,13 @@ building real projects daily, pushing to GitHub, and documenting the journey.
 
 ---
 
-## 📁 Repository Structure 60-days-frontend-challenge/
-├── day-01-css-basics/
-├── day-02-flexbox/
-├── day-03-css-grid/
-├── ...
-├── day-27-wolf-acoustics/
-├── day-28-29-aura-os/
-└── day-30-onward-react/
-└── noir-atelier/              
----
+## 📁 Project Directory Layout
 
-## 📊 Stats
-
----
-
-## 🔗 Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mohammad-huzaifa-359673344/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/mohammad43268)
-
----
-
-<p align="center">
-  <strong>ARCHITECTING THE DIGITAL UNKNOWN</strong><br>
-  <sub>Built with consistency, not motivation.</sub>
-</p>
+```text
+frontend-engineering-hub/
+├── apps/
+│   ├── aura-os/          # Web OS containing full backend AI automation modules
+│   ├── noir-atelier/     # E-Commerce multi-page React deployment
+│   └── wolf-acoustics/   # Three.js 3D product showcase pipeline
+├── components/           # Core library of custom UI systems & modules
+└── design-systems/       # Pure CSS/SCSS creative landing platforms
