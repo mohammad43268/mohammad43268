@@ -38,12 +38,6 @@ A production-grade, highly immersive luxury fashion platform focusing on high-en
 * Engineered custom hooks (`useLenis`, state management) to decouple scroll data from rendering.
 * Created sophisticated page transitions and parallax effects utilizing GSAP timeline orchestration.
 
-### 🎧 WOLF Acoustics — 3D Product Showcase
-> **Tech Stack:** React, Three.js, React Three Fiber, GLTF/GLB Models
-An interactive, high-fidelity 3D audio equipment showcase engineered for modern product marketing.
-* Integrated custom 3D headphone models with dynamic lighting, environment mapping, and camera view transitions.
-* Optimized assets for fast initial loading times and smooth 60 FPS rendering across standard desktop devices.
-
 
 ---
 
