@@ -44,12 +44,6 @@ An interactive, high-fidelity 3D audio equipment showcase engineered for modern 
 * Integrated custom 3D headphone models with dynamic lighting, environment mapping, and camera view transitions.
 * Optimized assets for fast initial loading times and smooth 60 FPS rendering across standard desktop devices.
 
-### 🎮 AKIRA Studios — Next-Gen Gaming Studio Landing Page
-> **Tech Stack:** Pure HTML5, Advanced CSS3, Native JavaScript
-A highly creative UI showcase designed entirely with zero external dependencies to prove deep core CSS mastery.
-* **[Live Demo](https://60-days-frontend-challenge.vercel.app)**
-* Features a cinematic hero header utilizing layered text-behind-image scroll masks.
-* Features responsive Bento-grid structures for asset layout and custom micro-interactions.
 
 ---
 
