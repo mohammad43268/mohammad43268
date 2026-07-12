@@ -22,21 +22,6 @@ I am a **Computer Science** student at **Jamia Millia Islamia**, deeply passiona
 
 ---
 
-## 🏆 Flagship Projects
-
-### 🖥️ Aura OS — Web-Based Intelligent Operating System
-> **Tech Stack:** React, Tailwind CSS, Python FastAPI, Gemini 2.5 Flash, WebSockets
-A fully conceptualized, browser-based operating system featuring an isolated desktop environment and natural language control.
-* **Intelligent Co-Pilot:** Integrated a Python FastAPI backend powered by **Gemini 2.5 Flash** to allow full natural language control over the OS (e.g., creating files, searching directories, or generating code via text command).
-* **System Features:** Built a custom multitasking window manager (draggable, resizable, and overlapping windows), a functional interactive terminal, a virtual file explorer, and a live code-execution IDE.
-* **Performance:** Leveraged highly optimized state management to ensure smooth system performance during multi-window processes.
-
-### 🖤 NOIR ATELIER — Premium Fashion E-Commerce
-> **Tech Stack:** React, Vite, React Router DOM, GSAP, Lenis Smooth Scroll
-A production-grade, highly immersive luxury fashion platform focusing on high-end motion design and seamless user flows.
-* Developed a scalable multi-page routing architecture with unified layout wrappers.
-* Engineered custom hooks (`useLenis`, state management) to decouple scroll data from rendering.
-* Created sophisticated page transitions and parallax effects utilizing GSAP timeline orchestration.
 
 
 ---
